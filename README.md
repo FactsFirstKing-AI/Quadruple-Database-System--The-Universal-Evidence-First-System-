@@ -107,7 +107,7 @@ Energy, logistics, smart environments, and critical operations.
 
 The system uses a dual pipeline made up of the Deterministic Compliance Pipeline and the Trust Maturation Pipeline. The first governs what is allowed into the system by enforcing scope, validation, and provenance rules, while the second takes validated material and develops it into structured understanding and trusted knowledge. Material that is confirmed, documented, and preserved moves into DB2 as the evidence ledger, and once it is there, it can be analyzed, compared, and interpreted in DB3 without altering the original record. In this way, DB2 holds what is real, and DB3 explains what it means.
 
-The system uses a dual pipeline made up of the Deterministic Compliance Pipeline and the Trust Maturation Pipeline. The first governs what is allowed into the system by enforcing scope, validation, and provenance rules, while the second takes validated material and develops it into structured understanding and trusted knowledge. Material that is confirmed, documented, and preserved moves into DB2 as the evidence ledger, and once it is there, it can be analyzed, compared, and interpreted in DB3 without altering the original record. In this way, DB2 holds what is real, and DB3 explains what it means.
+
 
 Repository Purpose
 
