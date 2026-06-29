@@ -118,5 +118,5 @@ All rights reserved.
 
 Author: Kyle James Harrison
 
-Disclaimer: This repository is provided for informational and conceptual purposes only. It does not constitute legal, medical, financial, or operational advice, and any implementation should be reviewed, validated, and adapted by qualified professionals in the relevant domain. 
+Disclaimer: This repository is provided for informational and conceptual purposes only. No reproduction without authors concent. Not meant for advice in any industry full validation in progress
 
