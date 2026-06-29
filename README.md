@@ -72,7 +72,7 @@ Mathematical and Logical Layers
 
 MathCore is the central judgment layer of the repository, responsible for determining whether incoming material has enough strength, coherence, and support to move forward in the system. Rather than generating new ideas, it evaluates the quality of what has already entered the pipeline and distinguishes between raw signal, weak speculation, and material that is mature enough to be trusted. It acts as the repository’s intellectual filter, preserving rigor by preventing volume, repetition, or surface-level plausibility from being mistaken for validity. In the context of the repo, MathCore is what keeps the evidence chain disciplined, ensures that later analysis is built on stable foundations, and maintains the boundary between tentative observations and knowledge worthy of promotion.
 
-Two examples of the twelve total Layers
+Two examples of the thirteen total Layers
 
 Authority Gating
 
