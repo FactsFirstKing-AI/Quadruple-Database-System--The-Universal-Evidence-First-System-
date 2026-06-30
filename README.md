@@ -30,16 +30,13 @@ A convergence layer for refinement, supervision, and long-term system improvemen
 Database Roles
 
 DB1: Governance and Intent Registry
-Defines mission, policy, scope, authorization, and system boundaries.
+
 
 DB2: Evidence and Provenance Ledger
-Preserves raw inputs, source integrity, timestamps, and chain-of-custody records.
 
-DB3: Synthetic Reasoning and Analysis Layer
-Produces structured interpretations, comparisons, rankings, and hypotheses from evidence.
+DB3: Synthetic Reasoning and Analysis 
 
-DB4: Trusted Knowledge and Brain Library
-Stores mature, high-confidence, reusable knowledge with preserved provenance.
+DB4: Trusted Knowledge 
 
 Pipeline Stages
 
@@ -74,15 +71,6 @@ Mathematical and Logical Layers
 
 MathCore is the central judgment layer of the repository, responsible for determining whether incoming material has enough strength, coherence, and support to move forward in the system. Rather than generating new ideas, it evaluates the quality of what has already entered the pipeline and distinguishes between raw signal, weak speculation, and material that is mature enough to be trusted. It acts as the repository’s intellectual filter, preserving rigor by preventing volume, repetition, or surface-level plausibility from being mistaken for validity. In the context of the repo, MathCore is what keeps the evidence chain disciplined, ensures that later analysis is built on stable foundations, and maintains the boundary between tentative observations and knowledge worthy of promotion.
 
-Two examples of the thirteen total Layers
-
-Authority Gating
-
-Smooth control attenuation under constrained conditions.
-
-System Error Signal
-
-Unified deviation metric for monitoring divergence.
 
 Design Principles
 
@@ -127,7 +115,7 @@ Infrastructure Systems
 
 Energy, logistics, smart environments, and critical operations.
 
-The system uses a dual pipeline made up of the Deterministic Compliance Pipeline and the Trust Maturation Pipeline. The first governs what is allowed into the system by enforcing scope, validation, and provenance rules, while the second takes validated material and develops it into structured understanding and trusted knowledge. Material that is confirmed, documented, and preserved moves into DB2 as the evidence ledger, and once it is there, it can be analyzed, compared, and interpreted in DB3 without altering the original record. In this way, DB2 holds what is real, and DB3 explains what it means. Pipelines built off of a wrappered staging looped skelton, Along with a strict twenty-nine gated evidence first containment design to assure a No Trust reliable filter system for universal confident analytics and accountable AI industrial usage.
+The system uses a dual pipeline made up of the Deterministic Compliance Pipeline and the Trust Maturation Pipeline. The first governs what is allowed into the system by enforcing scope, validation, and provenance rules, while the second takes validated material and develops it into structured understanding and trusted knowledge. 
 
 
 
